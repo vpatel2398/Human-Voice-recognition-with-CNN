@@ -1,4 +1,2 @@
-# DL1
-
-### Text Classification dataset
-#### dataset us downloded from kaggle https://www.kaggle.com/datasets/datatattle/covid-19-nlp-text-classification?select=Corona_NLP_train.csv
+# Human Voice recognition from CNN
+### The project addresses persistent challenges in achieving precise and context-aware human speech recognition. By leveraging Convolutional Neural Networks (CNNs), it aims to optimize models for sequential auditory data and enhance adaptability for improved accuracy in transcribing and comprehending diverse speech patterns
